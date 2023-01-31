@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp.router(
-        title: 'Kahveinn',
+        title: 'Labull',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           textTheme: GoogleFonts.ibmPlexMonoTextTheme(),
